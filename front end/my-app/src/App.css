@@ -1,0 +1,16 @@
+*{
+  text-align: center;
+  background-color: rgb(189, 123, 145);
+}
+
+.h1{
+  color: white;
+  margin-top: 2%;
+  text-shadow: 2px 2px black;
+}
+.btn-custom{
+  background-color: green;
+  font-size: large;
+}
+
+
